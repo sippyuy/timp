@@ -40,4 +40,4 @@
      ![](https://github.com/sippyuy/timp/blob/b4057b761c81ebabd4ab9a91b90e3250f2b4e0b4/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-10-46.png)
 - Найдите топ10 самых "тяжёлых".
 
-     ![]()
+     ![](https://github.com/sippyuy/timp/blob/0cd6f75c9791baaee03b3c2241c6f274ac54d07a/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-11-20.png)
