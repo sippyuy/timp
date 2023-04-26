@@ -12,4 +12,7 @@
 
      ![](https://github.com/sippyuy/timp/blob/b7846e9dd1345b414c3e7c10ceb4da66220e6da2/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_22-59-40.png)
 - Подсчитайте количество файлов в директории ~/boost_1_69_0 включая вложенные директории.
+
+     ![](https://github.com/sippyuy/timp/blob/5f18d6698906f0725a0792e1e4163bf2b5026bf9/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-00-35.png)
+- Подсчитайте количество заголовочных файлов, файлов с расширением .cpp, сколько остальных файлов (не заголовочных и не .cpp).
 ![]()
