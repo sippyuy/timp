@@ -36,4 +36,8 @@
 
      ![](https://github.com/sippyuy/timp/blob/40f2888811bfc90ea7c77ed097de7986c4d4cab9/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-09-38.png)
 - Подсчитайте сколько занимает дискового пространства каждый файл в этой директории.
-![]()
+
+     ![](https://github.com/sippyuy/timp/blob/b4057b761c81ebabd4ab9a91b90e3250f2b4e0b4/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-10-46.png)
+- Найдите топ10 самых "тяжёлых".
+
+     ![]()
