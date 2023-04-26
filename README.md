@@ -18,4 +18,7 @@
 
      ![](https://github.com/sippyuy/timp/blob/af8c77aec2eadda7f00b79ac89450edb2da7f840/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-01-54.png) ![](https://github.com/sippyuy/timp/blob/af8c77aec2eadda7f00b79ac89450edb2da7f840/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-02-02.png)
 - Найдите полный пусть до файла any.hpp внутри библиотеки boost.
+
+     ![](https://github.com/sippyuy/timp/blob/c77c0c901e4f88b99d399cdcdd6115f019a86479/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-02-33.png)
+- Выведите в консоль все файлы, где упоминается последовательность boost::asio.
 ![]()
