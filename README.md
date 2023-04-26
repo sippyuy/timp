@@ -21,4 +21,7 @@
 
      ![](https://github.com/sippyuy/timp/blob/c77c0c901e4f88b99d399cdcdd6115f019a86479/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-02-33.png)
 - Выведите в консоль все файлы, где упоминается последовательность boost::asio.
+
+     ![](https://github.com/sippyuy/timp/blob/352ccb580c7db004d4f0ae2da1f235321ac13c47/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-03-48.png)
+- Скомпилирутйе boost. Можно воспользоваться инструкцией или ссылкой.
 ![]()
