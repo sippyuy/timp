@@ -24,4 +24,13 @@
 
      ![](https://github.com/sippyuy/timp/blob/352ccb580c7db004d4f0ae2da1f235321ac13c47/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-03-48.png)
 - Скомпилирутйе boost. Можно воспользоваться инструкцией или ссылкой.
+
+     ![](https://github.com/sippyuy/timp/blob/9b4340d2d926dd1f69488767e16842afa33cc6cd/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-04-25.png)
+     
+     
+     ![](https://github.com/sippyuy/timp/blob/9b4340d2d926dd1f69488767e16842afa33cc6cd/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-08-44.png)
+     
+     
+     ![](https://github.com/sippyuy/timp/blob/9b4340d2d926dd1f69488767e16842afa33cc6cd/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-07-48.png)
+- Перенесите все скомпилированные на предыдущем шаге статические библиотеки в директорию ~/boost-libs.
 ![]()
