@@ -33,4 +33,7 @@
      
      ![](https://github.com/sippyuy/timp/blob/9b4340d2d926dd1f69488767e16842afa33cc6cd/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-07-48.png)
 - Перенесите все скомпилированные на предыдущем шаге статические библиотеки в директорию ~/boost-libs.
+
+     ![](https://github.com/sippyuy/timp/blob/40f2888811bfc90ea7c77ed097de7986c4d4cab9/screens/lab1screens/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-04-25_23-09-38.png)
+- Подсчитайте сколько занимает дискового пространства каждый файл в этой директории.
 ![]()
